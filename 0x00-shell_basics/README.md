@@ -13,3 +13,8 @@ Lists task that lists all files (even ones with names beginning with a period ch
 File type task that prints the type of the file named iamafile.
 We are symbols, and inhabit symbols task that creates a symbolic link to /bin/ls, named __ls__ in the current working directory.
 Copy HTML files task hat copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+Let's move task that create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+Clean Emacs task that create a script that deletes all files in the current working directory that end with the character ~.
+Tree task that create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+Life is a series of commas, not periods task that lists all the files and directories of the current directory, separated by commas (,).
+File type:School task that create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
